@@ -2,7 +2,7 @@
 
 I am Rogerskelamen, **a coder, a vimer and a guitar player** 👨‍💻
 
-You can simply call me **Ro** or **Rok** 🤟
+You can simply call me **RO** or **Rok** 🤟
 
 Welcome to my space, hope you have a good tour here 🥳
 
@@ -10,7 +10,7 @@ Welcome to my space, hope you have a good tour here 🥳
 
 This is 👉[my personal blog](https://rokelamen.top)👈
 
-![rok's github stats](https://github-readme-stats.vercel.app/api?username=Rogerskelamen&show_icons=true)
+![RO's github stats](https://github-readme-stats.vercel.app/api?username=Rogerskelamen&show_icons=true)
 
 <!--
 **Rogerskelamen/Rogerskelamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
