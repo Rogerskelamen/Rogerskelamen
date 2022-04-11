@@ -8,6 +8,10 @@ Welcome to my space, hope you have a good tour here 🥳
 
 *And if you find my repos interesting, don't forget Star* 😆
 
+This is 👉[my personal blog](https://rokelamen.top)👈
+
+![rok's github stats](https://github-readme-stats.vercel.app/api?username=Rogerskelamen&show_icons=true)
+
 <!--
 **Rogerskelamen/Rogerskelamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
