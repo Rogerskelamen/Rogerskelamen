@@ -4,7 +4,9 @@ I am Rogerskelamen, **a coder, a vimer and a guitar player** 👨‍💻
 
 You can simply call me **Ro** or **Rok** 🤟
 
-Welcome to my space! *And if you find my repos interesting, don't forget Star* 😆
+Welcome to my space, hope you have a good tour here! 
+
+*And if you find my repos interesting, don't forget Star* 😆
 
 <!--
 **Rogerskelamen/Rogerskelamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
