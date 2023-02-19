@@ -8,7 +8,7 @@ I am Rogerskelamen, **a coder, a vimer and a guitar player** 👨‍💻
 
 You can simply call me **RO** or **Rok** 🤟
 
-*And if you find my repos interesting, don't forget Star* 😆
+*If you find my repos interesting, don't forget Star* 😆
 
 This is 👉[my personal blog](https://rokelamen.top)👈
 
