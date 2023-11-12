@@ -8,7 +8,7 @@ I am Rogerskelamen, **a coder, a vimer and a guitar player** 👨‍💻
 
 You can simply call me **RO** or **Rok** 🤟
 
-Now I'm a undergraduate in Wuhan, China. 🇨🇳
+Now I'm a graduate student pursuing a master's degree in Shenzhen, China. 🇨🇳
 
 *If you find my repos interesting, don't forget to Star* 😆
 
