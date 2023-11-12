@@ -10,6 +10,8 @@ You can simply call me **RO** or **Rok** 🤟
 
 Now I'm a graduate student pursuing a master's degree in Shenzhen, China. 🇨🇳
 
+My interest is in a complete framework from processor to operating system 💻
+
 *If you find my repos interesting, don't forget to Star* 😆
 
 This is 👉[my personal blog](https://rokelamen.top)👈
