@@ -17,5 +17,3 @@ My interest is in a complete framework from processor to operating system 💻
 This is 👉[my personal blog](https://rokelamen.top)👈
 
 *how to reach me*: binary_guitar@qq.com 📫
-
-![Rok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerskelamen&show_icons=true&hide=prs)
